@@ -80,3 +80,7 @@ You can customize this README further by adding:
 - Deployment instructions
 - Testing instructions (when you add tests)
 - More examples of API usage
+
+## Author
+
+Praisekeyz 🎹
