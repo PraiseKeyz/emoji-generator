@@ -1,6 +1,6 @@
 import express from 'express';
 import bodyParser from 'body-parser';
-import translateRoutes from './routes/translateRoutes.ts';
+import translateRoutes from './routes/translateRoutes.js';
 
 const app = express();
 const PORT = 3000;
