@@ -10,6 +10,10 @@ A RESTful API service that translates between emojis and their text descriptions
 - Input validation
 - Error handling
 
+## API Documentation
+
+You can find the API documentation [here](https://documenter.getpostman.com/view/40640896/2sB2ixkE2a).
+
 ## Technologies Used
 
 - Node.js
